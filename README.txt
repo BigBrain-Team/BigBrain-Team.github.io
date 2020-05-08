@@ -26,7 +26,7 @@ Credits:
 	Demo Images:
 		Unsplash (unsplash.com)
 
-	Icons:
+	Icons:s
 		Font Awesome (fontawesome.io)
 
 	Other:
